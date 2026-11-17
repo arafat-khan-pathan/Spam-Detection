@@ -31,7 +31,8 @@ cd Spam-Detection
 
 3. Install the required dependencies:
 ```powershell
-pip install -r requirements__v2__.txt  ### pip install -r requirements.txt (this is so long requirement file. no need this)
+pip install -r requirements__v2__.txt
+### pip install -r requirements.txt  -->(this is so long requirements file. no need this)
 ```
 
 4. Start the server:
